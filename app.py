@@ -256,3 +256,6 @@ if multi_counties:
 st.success("Forecast complete")
 
 st.markdown("Prepared for the **AICTE Internship Cycle 2 by S4F**")
+st.markdown("Kommi Venkata Tarun")
+st.markdown("AICTE Student ID: STU65b28c0ee28801706200078")
+st.markdown("AICTE Internship ID: INTERNSHIP_1748923002683e727a876ea")
